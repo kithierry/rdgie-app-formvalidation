@@ -12,7 +12,7 @@ import com.jverstry.Data.Subscriber;
 
 @Controller
 public class FormController {
-	
+	//testing git commit
 
 	@RequestMapping(value="/formPage", method=RequestMethod.GET)
 	public String loadFormPage(Model m) {
